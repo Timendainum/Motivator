@@ -2,20 +2,26 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Motivator	KEYWORD1
-Behavior	KEYWORD1
+Motivator			KEYWORD1
+Behavior			KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-enableBehavior	KEYWORD2
-disableBehavior	KEYWORD2
-addBehavior	KEYWORD2
+enableBehavior		KEYWORD2
+disableBehavior		KEYWORD2
+addBehavior			KEYWORD2
 executeBehaviors	KEYWORD2
+addConflict			KEYWORD2
+enable				KEYWORD2
+disable				KEYWORD2
+getEnabled			KEYWORD2
+init				KEYWORD2
+execute				KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
 
-M_BEHAVIORS	LITERAL1
+M_BEHAVIORS			LITERAL1
